@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sawan-Kag/youtube-clone/static/css/main.06a11721.css",
+    "main.js": "/Sawan-Kag/youtube-clone/static/js/main.f6774653.js",
+    "static/media/yt-logo-mobile.png": "/Sawan-Kag/youtube-clone/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
+    "static/media/yt-logo.png": "/Sawan-Kag/youtube-clone/static/media/yt-logo.d6505fbc930734374cea.png",
+    "index.html": "/Sawan-Kag/youtube-clone/index.html",
+    "main.06a11721.css.map": "/Sawan-Kag/youtube-clone/static/css/main.06a11721.css.map",
+    "main.f6774653.js.map": "/Sawan-Kag/youtube-clone/static/js/main.f6774653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06a11721.css",
+    "static/js/main.f6774653.js"
+  ]
+}
